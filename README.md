@@ -1,4 +1,4 @@
-# IndiaWeatherDown 🌧️
+# IndiaWeatherDown 
 > A lightweight CNN-Transformer model for high-resolution weather downscaling over India (1.5° → 0.25°)
 
 ## Motivation
